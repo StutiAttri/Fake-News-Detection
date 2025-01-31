@@ -18,20 +18,28 @@ A machine learning project using NLP techniques to classify news as real or fake
 ## Results
 The model achieved the following performance metrics on the test data:
 
-Accuracy: 99%
-Precision:
-Class 0 (Real News): 99%
+- **Accuracy:** 99%  
+- **Precision:**  
+  - Class 0 (Real News): 99%  
+  - Class 1 (Fake News): 99%  
+- **Recall:**  
+  - Class 0 (Real News): 99%  
+  - Class 1 (Fake News): 99%  
+- **F1-Score:**  
+  - Class 0 (Real News): 99%  
+  - Class 1 (Fake News): 99%  
 
-Class 1 (Fake News): 99%
+## Installation & Usage
+Follow these steps to set up and run the project:
 
-Recall:
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/fake-news-detection.git  
+   cd fake-news-detection
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+3. **Run the Jupyter Notebook**
+   ```bash
+   jupyter notebook Fake_News_Detection.ipynb
 
-Class 0 (Real News): 99%
-
-Class 1 (Fake News): 99%
-
-F1-Score:
-
-Class 0 (Real News): 99%
-
-Class 1 (Fake News): 99%
