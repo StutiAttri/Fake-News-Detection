@@ -21,10 +21,17 @@ The model achieved the following performance metrics on the test data:
 Accuracy: 99%
 Precision:
 Class 0 (Real News): 99%
+
 Class 1 (Fake News): 99%
+
 Recall:
+
 Class 0 (Real News): 99%
+
 Class 1 (Fake News): 99%
+
 F1-Score:
+
 Class 0 (Real News): 99%
+
 Class 1 (Fake News): 99%
